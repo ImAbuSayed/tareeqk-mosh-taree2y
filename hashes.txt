@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tareeqk Mosh Taree2y
+
+This log tracks the cryptographic history and versioning for the song **Tareeqk Mosh Taree2y** (tareeqk-mosh-taree2y).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T00:31:35.583280 | `v1` | `baf4b0dbed066d3f4fb9e768ef44e58a42bce054aaf5ea8ec95c9ba36451cb3f` | `baf4b0dbed066d3f4fb9e768ef44e58a42bce054aaf5ea8ec95c9ba36451cb3f` | `2026-05-09_tareeqk-mosh-taree2y-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
